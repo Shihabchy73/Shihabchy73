@@ -4,7 +4,7 @@
    <img alt="coding" width="700" src="https://github.com/Pritamdutta7498/Pritamdutta7498/blob/main/error.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Pritam Dutta</h1>
+<h1 align="center">Hi 👋, I'm Shihab Chy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **html, css,bootstrap, tailwind,javascript,react**
 
-- 📫 How to reach me **pritamdutta7498@gmail.com**
+- 📫 How to reach me **msashihab6630@gmail.com**
 
 - ⚡ Fun fact **My passions include writing, Go for a walk in the riverside and watching old movies.**
 
