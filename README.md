@@ -1,7 +1,7 @@
 
 <!-- new update -->
 <p align="center">
-   <img alt="coding" width="700" src="https://github.com/Pritamdutta7498/Pritamdutta7498/blob/main/error.gif">
+   <img alt="coding" width="700" src="https://github.com/Pritamdutta7498/Pritamdutta7498/blob/main/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pritam Dutta</h1>
