@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Dutta</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
-<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVhaG5mdDRkdHB5eXh6OWo0azBzbjFyOGRjaXFqYXRiaThobXc5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamdutta7498&label=Profile%20views&color=0e75b6&style=flat" alt="pritamdutta7498" /> </p>
 
