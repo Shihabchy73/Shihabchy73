@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pritamdutta7498?tab=repositories](https://github.com/Pritamdutta7498?tab=repositories)
+- 👨‍💻 All of my projects are available at [ https://github.com/Shihabchy73?tab=projects] 
 
 - 💬 Ask me about **html, css,bootstrap, tailwind,javascript,react**
 
